@@ -3,8 +3,7 @@
 alt= A picture of the working project
 
 
-This is a repository for the Fullstack Notion Clone:
-Tech Used:  Next.js 13, React, Convex, Tailwind | Full Course 2023
+This is a repository for the fullstack notion clone built with Next.js 13, React, Convex, Tailwind
 
 
 Key Features:
